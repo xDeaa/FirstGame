@@ -53,6 +53,7 @@
 		4D1919602217074B009608D1 /* SushiNekoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SushiNekoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D1919642217074B009608D1 /* SushiNekoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiNekoUITests.swift; sourceTree = "<group>"; };
 		4D1919662217074B009608D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D19197522170772009608D1 /* button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 				4D1919442217074A009608D1 /* GameScene.swift */,
 				4D1919462217074A009608D1 /* GameViewController.swift */,
 				4D1919482217074A009608D1 /* Main.storyboard */,
+				4D19197522170772009608D1 /* button@2x.png */,
 				4D19194B2217074B009608D1 /* Assets.xcassets */,
 				4D19194D2217074B009608D1 /* LaunchScreen.storyboard */,
 				4D1919502217074B009608D1 /* Info.plist */,
