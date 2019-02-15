@@ -11,4 +11,9 @@ import GameplayKit
 
 class GameScene: SKScene {
     
+    enum sideChopstick{
+        case right
+        case left
+        case none
+    }
 }

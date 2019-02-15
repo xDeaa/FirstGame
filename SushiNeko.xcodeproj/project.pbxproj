@@ -17,6 +17,7 @@
 		4D19194F2217074B009608D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D19194D2217074B009608D1 /* LaunchScreen.storyboard */; };
 		4D19195A2217074B009608D1 /* SushiNekoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1919592217074B009608D1 /* SushiNekoTests.swift */; };
 		4D1919652217074B009608D1 /* SushiNekoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D1919642217074B009608D1 /* SushiNekoUITests.swift */; };
+		4D19197722170AB6009608D1 /* SushiType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D19197622170AB6009608D1 /* SushiType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		4D1919642217074B009608D1 /* SushiNekoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiNekoUITests.swift; sourceTree = "<group>"; };
 		4D1919662217074B009608D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D19197522170772009608D1 /* button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button@2x.png"; sourceTree = "<group>"; };
+		4D19197622170AB6009608D1 /* SushiType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				4D19194B2217074B009608D1 /* Assets.xcassets */,
 				4D19194D2217074B009608D1 /* LaunchScreen.storyboard */,
 				4D1919502217074B009608D1 /* Info.plist */,
+				4D19197622170AB6009608D1 /* SushiType.swift */,
 			);
 			path = SushiNeko;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D19197722170AB6009608D1 /* SushiType.swift in Sources */,
 				4D1919452217074A009608D1 /* GameScene.swift in Sources */,
 				4D1919472217074A009608D1 /* GameViewController.swift in Sources */,
 				4D19193F2217074A009608D1 /* AppDelegate.swift in Sources */,
